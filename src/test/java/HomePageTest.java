@@ -1,4 +1,3 @@
-import org.example.GuruKaryawan;
 import org.example.HomePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

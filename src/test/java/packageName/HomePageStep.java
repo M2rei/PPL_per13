@@ -27,7 +27,7 @@ public class HomePageStep {
 
     @When("the user clicks on the history link")
     public void the_user_clicks_on_the_history_link() {
-        // Click history link
+        // Click history linkk
         WebElement historyLink = driver.findElement(By.linkText("Sejarah"));
         historyLink.click();
     }
